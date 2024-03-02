@@ -9,4 +9,6 @@ SwishStats is your ultimate companion for exploring in-depth NBA statistics and 
      BallDontLie API 
     </a>
   </li>
+  <li>Preforms advanced statistics and analysis on data using Python libraries</li>
+  <li>Exposes the statistics via REST API</li>
 </ul>
