@@ -16,5 +16,5 @@ SwishStats is your ultimate companion for exploring in-depth NBA statistics and 
     </a>
   </li>
   <li>Preforms advanced statistics and analysis on data using Python libraries</li>
-  <li>Exposes the statistics via <a href="https://www.django-rest-framework.org/">REST API</a></li>
+  <li>Exposes the statistics via <a href="https://www.django-rest-framework.org/">Django REST framework</a></li>
 </ul>
