@@ -3,12 +3,12 @@ SwishStats is your ultimate companion for exploring in-depth NBA statistics and 
 
 ## Basic Requirements
 <ul>
-  <ul>
+  <li>
     This is a 
     <a href="https://docs.djangoproject.com/en/5.0/">
       Django App, read the documentation here
     </a>
-  </ul>
+  </li>
   <li>
     Consumes data from
     <a href="https://docs.balldontlie.io/#introduction">
